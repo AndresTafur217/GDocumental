@@ -1,0 +1,66 @@
+﻿@model Gestion_documental.Models.Usuario
+@{
+    Layout = null;
+}
+<link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+<link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+
+<div class="container d-flex justify-content-center align-items-center" style="height: 100vh;">
+    <div class="col-md-6 col-lg-4">
+        <div class="card shadow-lg rounded-4">
+            <div class="card-header text-center">
+                <h2 class="mb-0">Registro de Usuario</h2>
+            </div>
+            <div class="card-body">
+                @if (TempData["ErrorMessage"] != null)
+                {
+                    <div class="alert alert-danger">
+                        @TempData["ErrorMessage"]
+                    </div>
+                }
+                <form asp-controller="Autenticacion" asp-action="Registro" method="post">
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                    <div class="mb-3">
+                        <label asp-for="Nombre" class="form-label">Nombre</label>
+                        <input asp-for="Nombre" class="form-control" required />
+                        <span asp-validation-for="Nombre" class="text-danger"></span>
+                    </div>
+
+                    <div class="mb-3">
+                        <label asp-for="Email" class="form-label">Correo Electrónico</label>
+                        <input asp-for="Email" class="form-control" required />
+                        <span asp-validation-for="Email" class="text-danger"></span>
+                    </div>
+
+                    <div class="mb-3">
+                        <label asp-for="Cargo" class="form-label">Cargo</label>
+                        <input asp-for="Cargo" class="form-control" required />
+                        <span asp-validation-for="Cargo" class="text-danger"></span>
+                    </div>
+
+                    <div class="mb-3">
+                        <label asp-for="Contraseña" class="form-label">Contraseña</label>
+                        <input asp-for="Contraseña" type="password" class="form-control" required />
+                        <span asp-validation-for="Contraseña" class="text-danger"></span>
+                    </div>
+
+                    <div class="d-grid gap-2">
+                        <button type="submit" class="btn btn-primary">Registrarse</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+<script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+<script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

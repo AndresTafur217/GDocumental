@@ -1,0 +1,81 @@
+﻿@model DocumentoSearchViewModel
+
+<div class="container mt-4">
+    <h2>Búsqueda de Documentos</h2>
+
+    <form asp-action="Buscar" method="post">
+        <div class="row">
+            <div class="col-md-3">
+                <div class="form-group">
+                    <label asp-for="NombreDocumento">Nombre del Documento</label>
+                    <input asp-for="NombreDocumento" class="form-control" />
+                </div>
+            </div>
+
+            <div class="col-md-2">
+                <div class="form-group">
+                    <label asp-for="NombreUsuario">Nombre del Usuario</label>
+                    <input asp-for="NombreUsuario" class="form-control" />
+                </div>
+            </div>
+            <div class="col-md-2">
+                <div class="form-group">
+                    <label asp-for="CategoriaId">Categoría</label>
+                    <select asp-for="CategoriaId" class="form-control">
+                        <option value="">-- Seleccione Categoría --</option>
+                        @foreach (var categoria in Model.Categorias)
+                        {
+                            <option value="@categoria.Id">@categoria.Nombre</option>
+                        }
+                    </select>
+                </div>
+            </div>
+
+            <div class="col-md-2">
+                <div class="form-group">
+                    <label asp-for="FechaInicio">Fecha Inicio</label>
+                    <input asp-for="FechaInicio" type="date" class="form-control" />
+                </div>
+            </div>
+        </div>
+
+        <div class="row mt-3">
+            <div class="col">
+                <button type="submit" class="btn btn-primary">Buscar</button>
+                <a asp-action="Buscar" class="btn btn-secondary">Limpiar</a>
+            </div>
+        </div>
+    </form>
+
+    @if (Model.Resultados != null && Model.Resultados.Any())
+    {
+        <div class="mt-4">
+            <h3>Resultados</h3>
+            <table class="table table-striped">
+                <thead>
+                    <tr>
+                        <th>Nombre</th>
+                        <th>Añadido por:</th>
+                        <th>Categoría</th>
+                        <th>Fecha de carga</th>
+                        <th>Examinar</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var doc in Model.Resultados)
+                    {
+                        <tr>
+                            <td>@doc.Nombre</td>
+                            <td>@doc.Usuario.Nombre</td>
+                            <td>@doc.Categoria.Nombre</td>
+                            <td>@doc.FechaCreacion.ToShortDateString()</td>
+                            <td>
+                                <a href="@doc.Ruta" class="btn btn-sm btn-info">Ver</a>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    }
+</div>
