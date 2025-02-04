@@ -1,0 +1,42 @@
+﻿@model Gestion_documental.Models.Documento
+
+@{
+    ViewData["Title"] = "Previsualización del Documento";
+    var fileContent = ViewBag.FileContent as string;
+    var contentType = ViewBag.ContentType as string;
+    var fileName = ViewBag.FileName as string;
+}
+
+<h2>Previsualización del Documento: @Model.Nombre</h2>
+
+@if (!string.IsNullOrEmpty(fileContent))
+{
+    if (contentType.StartsWith("image/"))
+    {
+        <!-- imágenes -->
+        <img src="data:@contentType;base64,@fileContent" alt="@fileName" class="img-fluid" />
+    }
+    else if (contentType == "application/pdf")
+    {
+        <!-- PDF -->
+        <embed src="data:@contentType;base64,@fileContent" type="@contentType" width="100%" height="600px" />
+    }
+    else if (contentType.StartsWith("text/"))
+    {
+        <!-- texto -->
+        <pre>@System.Text.Encoding.UTF8.GetString(Convert.FromBase64String(fileContent))</pre>
+    }
+    else
+    {
+        <!-- Mostrar enlace de descarga para otros tipos de archivos -->
+        <p>No se puede previsualizar este tipo de archivo. <a href="data:@contentType;base64,@fileContent" download="@fileName">Descargar archivo</a></p>
+    }
+}
+else
+{
+    <p>No se pudo cargar el contenido del archivo.</p>
+}
+
+<div>
+    <a asp-action="Index" class="btn btn-secondary">Volver a la lista</a>
+</div>

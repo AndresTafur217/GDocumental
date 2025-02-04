@@ -2,8 +2,11 @@ wwwroot\Archivos_subidos\334d08a8-1153-48f5-8b2f-0e833e701728_6137_COOPERATIVA D
 wwwroot\Archivos_subidos\3b80ecbd-811d-46e6-9912-f5a12cfde51e_Logo_principal.jpeg
 wwwroot\Archivos_subidos\47f6f86a-98af-4a7b-bb81-9e5931cbf820_D.cs
 wwwroot\Archivos_subidos\5f134fc1-cd3b-482a-8963-72878578f752_HomeController.cs
+wwwroot\Archivos_subidos\6d56bffa-8420-4096-a218-c0d6a4901c84_3b80ecbd-811d-46e6-9912-f5a12cfde51e_Logo_principal.jpeg
 wwwroot\Archivos_subidos\a2d23509-832d-41c1-afa7-010685c9de47_BaseController (1).cs
+wwwroot\Archivos_subidos\b3702e66-c750-4444-a62b-5693f4498491_3b80ecbd-811d-46e6-9912-f5a12cfde51e_Logo_principal.jpeg
 wwwroot\Archivos_subidos\be56876b-bb0e-4d7f-9bc6-9b92362fad2a_BaseController.cs
+wwwroot\Archivos_subidos\cce9b604-6387-49e8-9f24-28e97a712388_3b80ecbd-811d-46e6-9912-f5a12cfde51e_Logo_principal.jpeg
 wwwroot\css\cooperativa-de-transportadores-de-belen-de-umbria.png
 wwwroot\css\img\cooperativa-de-transportadores-de-belen-de-umbria.png
 wwwroot\css\Logo_principal.jpeg

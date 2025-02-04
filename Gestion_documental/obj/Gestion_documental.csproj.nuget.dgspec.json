@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Revisoría Fiscal\\source\\repos\\Gestion_documental\\Gestion_documental\\Gestion_documental.csproj": {}
+    "C:\\Users\\Revisoría Fiscal\\Desktop\\GDocumental\\GDocumental\\Gestion_documental\\Gestion_documental.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Revisoría Fiscal\\source\\repos\\Gestion_documental\\Gestion_documental\\Gestion_documental.csproj": {
+    "C:\\Users\\Revisoría Fiscal\\Desktop\\GDocumental\\GDocumental\\Gestion_documental\\Gestion_documental.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Revisoría Fiscal\\source\\repos\\Gestion_documental\\Gestion_documental\\Gestion_documental.csproj",
+        "projectUniqueName": "C:\\Users\\Revisoría Fiscal\\Desktop\\GDocumental\\GDocumental\\Gestion_documental\\Gestion_documental.csproj",
         "projectName": "Gestion_documental",
-        "projectPath": "C:\\Users\\Revisoría Fiscal\\source\\repos\\Gestion_documental\\Gestion_documental\\Gestion_documental.csproj",
+        "projectPath": "C:\\Users\\Revisoría Fiscal\\Desktop\\GDocumental\\GDocumental\\Gestion_documental\\Gestion_documental.csproj",
         "packagesPath": "C:\\Users\\Revisoría Fiscal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Revisoría Fiscal\\source\\repos\\Gestion_documental\\Gestion_documental\\obj\\",
+        "outputPath": "C:\\Users\\Revisoría Fiscal\\Desktop\\GDocumental\\GDocumental\\Gestion_documental\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -81,6 +81,10 @@
             "MySql.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.8, )"
+            },
+            "X.PagedList.Mvc.Core": {
+              "target": "Package",
+              "version": "[10.5.7, )"
             }
           },
           "imports": [

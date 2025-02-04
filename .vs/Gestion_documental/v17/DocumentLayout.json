@@ -1,137 +1,141 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Revisor\u00EDa Fiscal\\source\\repos\\Gestion_documental\\",
+  "WorkspaceRootPath": "C:\\Users\\Revisor\u00EDa Fiscal\\Desktop\\GDocumental\\GDocumental\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|c:\\users\\revisor\u00EDa fiscal\\source\\repos\\gestion_documental\\gestion_documental\\views\\listadocumentos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|c:\\users\\revisor\u00EDa fiscal\\desktop\\gdocumental\\gdocumental\\gestion_documental\\views\\listadocumentos\\preview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|solutionrelative:gestion_documental\\views\\listadocumentos\\preview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|c:\\users\\revisor\u00EDa fiscal\\desktop\\gdocumental\\gdocumental\\gestion_documental\\views\\listadocumentos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|solutionrelative:gestion_documental\\views\\listadocumentos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|c:\\users\\revisor\u00EDa fiscal\\source\\repos\\gestion_documental\\gestion_documental\\views\\usuarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|solutionrelative:gestion_documental\\views\\usuarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|c:\\users\\revisor\u00EDa fiscal\\source\\repos\\gestion_documental\\gestion_documental\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|solutionrelative:gestion_documental\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|c:\\users\\revisor\u00EDa fiscal\\source\\repos\\gestion_documental\\gestion_documental\\views\\listadocumentos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|solutionrelative:gestion_documental\\views\\listadocumentos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|c:\\users\\revisor\u00EDa fiscal\\source\\repos\\gestion_documental\\gestion_documental\\views\\usuarios\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|solutionrelative:gestion_documental\\views\\usuarios\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|c:\\users\\revisor\u00EDa fiscal\\source\\repos\\gestion_documental\\gestion_documental\\views\\usuarios\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|solutionrelative:gestion_documental\\views\\usuarios\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|c:\\users\\revisor\u00EDa fiscal\\source\\repos\\gestion_documental\\gestion_documental\\views\\listadocumentos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|solutionrelative:gestion_documental\\views\\listadocumentos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|c:\\users\\revisor\u00EDa fiscal\\source\\repos\\gestion_documental\\gestion_documental\\views\\listadocumentos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|solutionrelative:gestion_documental\\views\\listadocumentos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|c:\\users\\revisor\u00EDa fiscal\\source\\repos\\gestion_documental\\gestion_documental\\views\\documentos\\buscar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|solutionrelative:gestion_documental\\views\\documentos\\buscar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|c:\\users\\revisor\u00EDa fiscal\\source\\repos\\gestion_documental\\gestion_documental\\views\\listadocumentos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|solutionrelative:gestion_documental\\views\\listadocumentos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|c:\\users\\revisor\u00EDa fiscal\\source\\repos\\gestion_documental\\gestion_documental\\views\\autenticacion\\registro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|solutionrelative:gestion_documental\\views\\autenticacion\\registro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|c:\\users\\revisor\u00EDa fiscal\\source\\repos\\gestion_documental\\gestion_documental\\controllers\\documentoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|solutionrelative:gestion_documental\\controllers\\documentoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|c:\\users\\revisor\u00EDa fiscal\\source\\repos\\gestion_documental\\gestion_documental\\views\\autenticacion\\recuperarcontrase\u00F1a.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|solutionrelative:gestion_documental\\views\\autenticacion\\recuperarcontrase\u00F1a.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|c:\\users\\revisor\u00EDa fiscal\\source\\repos\\gestion_documental\\gestion_documental\\views\\autenticacion\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|solutionrelative:gestion_documental\\views\\autenticacion\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|c:\\users\\revisor\u00EDa fiscal\\source\\repos\\gestion_documental\\gestion_documental\\views\\autenticacion\\cambiarcontrase\u00F1a.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|solutionrelative:gestion_documental\\views\\autenticacion\\cambiarcontrase\u00F1a.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|c:\\users\\revisor\u00EDa fiscal\\source\\repos\\gestion_documental\\gestion_documental\\controllers\\autenticacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|solutionrelative:gestion_documental\\controllers\\autenticacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|c:\\users\\revisor\u00EDa fiscal\\source\\repos\\gestion_documental\\gestion_documental\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|solutionrelative:gestion_documental\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|c:\\users\\revisor\u00EDa fiscal\\source\\repos\\gestion_documental\\gestion_documental\\controllers\\listadocumentoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|c:\\users\\revisor\u00EDa fiscal\\desktop\\gdocumental\\gdocumental\\gestion_documental\\controllers\\listadocumentoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|solutionrelative:gestion_documental\\controllers\\listadocumentoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|c:\\users\\revisor\u00EDa fiscal\\source\\repos\\gestion_documental\\gestion_documental\\models\\documentosearchviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|solutionrelative:gestion_documental\\models\\documentosearchviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|c:\\users\\revisor\u00EDa fiscal\\desktop\\gdocumental\\gdocumental\\gestion_documental\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|solutionrelative:gestion_documental\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|c:\\users\\revisor\u00EDa fiscal\\source\\repos\\gestion_documental\\gestion_documental\\data\\gestion_documentalcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|solutionrelative:gestion_documental\\data\\gestion_documentalcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|c:\\users\\revisor\u00EDa fiscal\\source\\repos\\gestion_documental\\gestion_documental\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|c:\\users\\revisor\u00EDa fiscal\\desktop\\gdocumental\\gdocumental\\gestion_documental\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|solutionrelative:gestion_documental\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|c:\\users\\revisor\u00EDa fiscal\\source\\repos\\gestion_documental\\gestion_documental\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|solutionrelative:gestion_documental\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|c:\\users\\revisor\u00EDa fiscal\\desktop\\gdocumental\\gdocumental\\gestion_documental\\views\\documentos\\buscar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|solutionrelative:gestion_documental\\views\\documentos\\buscar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|c:\\users\\revisor\u00EDa fiscal\\source\\repos\\gestion_documental\\gestion_documental\\views\\usuarios\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|solutionrelative:gestion_documental\\views\\usuarios\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|c:\\users\\revisor\u00EDa fiscal\\desktop\\gdocumental\\gdocumental\\gestion_documental\\views\\listadocumentos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|solutionrelative:gestion_documental\\views\\listadocumentos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|c:\\users\\revisor\u00EDa fiscal\\source\\repos\\gestion_documental\\gestion_documental\\views\\usuarios\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|solutionrelative:gestion_documental\\views\\usuarios\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|c:\\users\\revisor\u00EDa fiscal\\desktop\\gdocumental\\gdocumental\\gestion_documental\\controllers\\documentoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|solutionrelative:gestion_documental\\controllers\\documentoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|c:\\users\\revisor\u00EDa fiscal\\source\\repos\\gestion_documental\\gestion_documental\\gestion_documental.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|solutionrelative:gestion_documental\\gestion_documental.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|c:\\users\\revisor\u00EDa fiscal\\source\\repos\\gestion_documental\\gestion_documental\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|solutionrelative:gestion_documental\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|c:\\users\\revisor\u00EDa fiscal\\source\\repos\\gestion_documental\\gestion_documental\\models\\documento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|c:\\users\\revisor\u00EDa fiscal\\desktop\\gdocumental\\gdocumental\\gestion_documental\\models\\documento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|solutionrelative:gestion_documental\\models\\documento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|c:\\users\\revisor\u00EDa fiscal\\source\\repos\\gestion_documental\\gestion_documental\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|c:\\users\\revisor\u00EDa fiscal\\desktop\\gdocumental\\gdocumental\\gestion_documental\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|solutionrelative:gestion_documental\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|c:\\users\\revisor\u00EDa fiscal\\source\\repos\\gestion_documental\\gestion_documental\\views\\shared\\_searchform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|c:\\users\\revisor\u00EDa fiscal\\desktop\\gdocumental\\gdocumental\\gestion_documental\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|solutionrelative:gestion_documental\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|c:\\users\\revisor\u00EDa fiscal\\desktop\\gdocumental\\gdocumental\\gestion_documental\\views\\usuarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|solutionrelative:gestion_documental\\views\\usuarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|c:\\users\\revisor\u00EDa fiscal\\desktop\\gdocumental\\gdocumental\\gestion_documental\\views\\usuarios\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|solutionrelative:gestion_documental\\views\\usuarios\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|c:\\users\\revisor\u00EDa fiscal\\desktop\\gdocumental\\gdocumental\\gestion_documental\\views\\usuarios\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|solutionrelative:gestion_documental\\views\\usuarios\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|c:\\users\\revisor\u00EDa fiscal\\desktop\\gdocumental\\gdocumental\\gestion_documental\\views\\listadocumentos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|solutionrelative:gestion_documental\\views\\listadocumentos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|c:\\users\\revisor\u00EDa fiscal\\desktop\\gdocumental\\gdocumental\\gestion_documental\\views\\listadocumentos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|solutionrelative:gestion_documental\\views\\listadocumentos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|c:\\users\\revisor\u00EDa fiscal\\desktop\\gdocumental\\gdocumental\\gestion_documental\\views\\listadocumentos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|solutionrelative:gestion_documental\\views\\listadocumentos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|c:\\users\\revisor\u00EDa fiscal\\desktop\\gdocumental\\gdocumental\\gestion_documental\\views\\autenticacion\\registro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|solutionrelative:gestion_documental\\views\\autenticacion\\registro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|c:\\users\\revisor\u00EDa fiscal\\desktop\\gdocumental\\gdocumental\\gestion_documental\\views\\autenticacion\\recuperarcontrase\u00F1a.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|solutionrelative:gestion_documental\\views\\autenticacion\\recuperarcontrase\u00F1a.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|c:\\users\\revisor\u00EDa fiscal\\desktop\\gdocumental\\gdocumental\\gestion_documental\\views\\autenticacion\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|solutionrelative:gestion_documental\\views\\autenticacion\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|c:\\users\\revisor\u00EDa fiscal\\desktop\\gdocumental\\gdocumental\\gestion_documental\\views\\autenticacion\\cambiarcontrase\u00F1a.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|solutionrelative:gestion_documental\\views\\autenticacion\\cambiarcontrase\u00F1a.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|c:\\users\\revisor\u00EDa fiscal\\desktop\\gdocumental\\gdocumental\\gestion_documental\\controllers\\autenticacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|solutionrelative:gestion_documental\\controllers\\autenticacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|c:\\users\\revisor\u00EDa fiscal\\desktop\\gdocumental\\gdocumental\\gestion_documental\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|solutionrelative:gestion_documental\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|c:\\users\\revisor\u00EDa fiscal\\desktop\\gdocumental\\gdocumental\\gestion_documental\\models\\documentosearchviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|solutionrelative:gestion_documental\\models\\documentosearchviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|c:\\users\\revisor\u00EDa fiscal\\desktop\\gdocumental\\gdocumental\\gestion_documental\\data\\gestion_documentalcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|solutionrelative:gestion_documental\\data\\gestion_documentalcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|c:\\users\\revisor\u00EDa fiscal\\desktop\\gdocumental\\gdocumental\\gestion_documental\\views\\usuarios\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|solutionrelative:gestion_documental\\views\\usuarios\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|c:\\users\\revisor\u00EDa fiscal\\desktop\\gdocumental\\gdocumental\\gestion_documental\\views\\usuarios\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|solutionrelative:gestion_documental\\views\\usuarios\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|c:\\users\\revisor\u00EDa fiscal\\desktop\\gdocumental\\gdocumental\\gestion_documental\\gestion_documental.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|solutionrelative:gestion_documental\\gestion_documental.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|c:\\users\\revisor\u00EDa fiscal\\desktop\\gdocumental\\gdocumental\\gestion_documental\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|solutionrelative:gestion_documental\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|c:\\users\\revisor\u00EDa fiscal\\desktop\\gdocumental\\gdocumental\\gestion_documental\\views\\shared\\_searchform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|solutionrelative:gestion_documental\\views\\shared\\_searchform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|c:\\users\\revisor\u00EDa fiscal\\source\\repos\\gestion_documental\\gestion_documental\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|c:\\users\\revisor\u00EDa fiscal\\desktop\\gdocumental\\gdocumental\\gestion_documental\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|solutionrelative:gestion_documental\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|c:\\users\\revisor\u00EDa fiscal\\source\\repos\\gestion_documental\\gestion_documental\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|c:\\users\\revisor\u00EDa fiscal\\desktop\\gdocumental\\gdocumental\\gestion_documental\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|solutionrelative:gestion_documental\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|c:\\users\\revisor\u00EDa fiscal\\source\\repos\\gestion_documental\\gestion_documental\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|c:\\users\\revisor\u00EDa fiscal\\desktop\\gdocumental\\gdocumental\\gestion_documental\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|solutionrelative:gestion_documental\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|c:\\users\\revisor\u00EDa fiscal\\source\\repos\\gestion_documental\\gestion_documental\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|c:\\users\\revisor\u00EDa fiscal\\desktop\\gdocumental\\gdocumental\\gestion_documental\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{80D933D9-8185-4DE6-B4CA-E0D09B3905AF}|Gestion_documental\\Gestion_documental.csproj|solutionrelative:gestion_documental\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     }
   ],
@@ -142,396 +146,114 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 5,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\Revisor\u00EDa Fiscal\\source\\repos\\Gestion_documental\\Gestion_documental\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "Gestion_documental\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\Revisor\u00EDa Fiscal\\source\\repos\\Gestion_documental\\Gestion_documental\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "Gestion_documental\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-01-29T14:22:38.652Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Revisor\u00EDa Fiscal\\source\\repos\\Gestion_documental\\Gestion_documental\\Views\\Usuarios\\Index.cshtml",
-              "RelativeDocumentMoniker": "Gestion_documental\\Views\\Usuarios\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Revisor\u00EDa Fiscal\\source\\repos\\Gestion_documental\\Gestion_documental\\Views\\Usuarios\\Index.cshtml",
-              "RelativeToolTip": "Gestion_documental\\Views\\Usuarios\\Index.cshtml",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-21T15:57:41.968Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Buscar.cshtml",
-              "DocumentMoniker": "C:\\Users\\Revisor\u00EDa Fiscal\\source\\repos\\Gestion_documental\\Gestion_documental\\Views\\Documentos\\Buscar.cshtml",
-              "RelativeDocumentMoniker": "Gestion_documental\\Views\\Documentos\\Buscar.cshtml",
-              "ToolTip": "C:\\Users\\Revisor\u00EDa Fiscal\\source\\repos\\Gestion_documental\\Gestion_documental\\Views\\Documentos\\Buscar.cshtml",
-              "RelativeToolTip": "Gestion_documental\\Views\\Documentos\\Buscar.cshtml",
-              "ViewState": "AgIAAC0AAAAAAAAAAADwvzoAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-21T13:18:03.572Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "DocumentosController.cs",
-              "DocumentMoniker": "C:\\Users\\Revisor\u00EDa Fiscal\\source\\repos\\Gestion_documental\\Gestion_documental\\Controllers\\DocumentosController.cs",
-              "RelativeDocumentMoniker": "Gestion_documental\\Controllers\\DocumentosController.cs",
-              "ToolTip": "C:\\Users\\Revisor\u00EDa Fiscal\\source\\repos\\Gestion_documental\\Gestion_documental\\Controllers\\DocumentosController.cs",
-              "RelativeToolTip": "Gestion_documental\\Controllers\\DocumentosController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T12:55:54.367Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\Revisor\u00EDa Fiscal\\source\\repos\\Gestion_documental\\Gestion_documental\\Views\\ListaDocumentos\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Gestion_documental\\Views\\ListaDocumentos\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\Revisor\u00EDa Fiscal\\source\\repos\\Gestion_documental\\Gestion_documental\\Views\\ListaDocumentos\\Edit.cshtml",
-              "RelativeToolTip": "Gestion_documental\\Views\\ListaDocumentos\\Edit.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAABoAAABOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-21T16:10:22.719Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Revisor\u00EDa Fiscal\\source\\repos\\Gestion_documental\\Gestion_documental\\Views\\ListaDocumentos\\Create.cshtml",
-              "RelativeDocumentMoniker": "Gestion_documental\\Views\\ListaDocumentos\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Revisor\u00EDa Fiscal\\source\\repos\\Gestion_documental\\Gestion_documental\\Views\\ListaDocumentos\\Create.cshtml",
-              "RelativeToolTip": "Gestion_documental\\Views\\ListaDocumentos\\Create.cshtml",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-21T16:05:18.46Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\Revisor\u00EDa Fiscal\\source\\repos\\Gestion_documental\\Gestion_documental\\Views\\ListaDocumentos\\Delete.cshtml",
-              "RelativeDocumentMoniker": "Gestion_documental\\Views\\ListaDocumentos\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\Revisor\u00EDa Fiscal\\source\\repos\\Gestion_documental\\Gestion_documental\\Views\\ListaDocumentos\\Delete.cshtml",
-              "RelativeToolTip": "Gestion_documental\\Views\\ListaDocumentos\\Delete.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAADMAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-21T16:07:11.394Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\Revisor\u00EDa Fiscal\\source\\repos\\Gestion_documental\\Gestion_documental\\Views\\Usuarios\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Gestion_documental\\Views\\Usuarios\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\Revisor\u00EDa Fiscal\\source\\repos\\Gestion_documental\\Gestion_documental\\Views\\Usuarios\\Edit.cshtml",
-              "RelativeToolTip": "Gestion_documental\\Views\\Usuarios\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-21T15:58:40.578Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Revisor\u00EDa Fiscal\\source\\repos\\Gestion_documental\\Gestion_documental\\Views\\ListaDocumentos\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Revisor\u00EDa Fiscal\\Desktop\\GDocumental\\GDocumental\\Gestion_documental\\Views\\ListaDocumentos\\Index.cshtml",
               "RelativeDocumentMoniker": "Gestion_documental\\Views\\ListaDocumentos\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Revisor\u00EDa Fiscal\\source\\repos\\Gestion_documental\\Gestion_documental\\Views\\ListaDocumentos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Revisor\u00EDa Fiscal\\Desktop\\GDocumental\\GDocumental\\Gestion_documental\\Views\\ListaDocumentos\\Index.cshtml",
               "RelativeToolTip": "Gestion_documental\\Views\\ListaDocumentos\\Index.cshtml",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAACoAAABhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-21T16:10:55.264Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\Revisor\u00EDa Fiscal\\source\\repos\\Gestion_documental\\Gestion_documental\\Views\\Usuarios\\Details.cshtml",
-              "RelativeDocumentMoniker": "Gestion_documental\\Views\\Usuarios\\Details.cshtml",
-              "ToolTip": "C:\\Users\\Revisor\u00EDa Fiscal\\source\\repos\\Gestion_documental\\Gestion_documental\\Views\\Usuarios\\Details.cshtml",
-              "RelativeToolTip": "Gestion_documental\\Views\\Usuarios\\Details.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-21T15:59:41.893Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\Revisor\u00EDa Fiscal\\source\\repos\\Gestion_documental\\Gestion_documental\\Views\\ListaDocumentos\\Details.cshtml",
-              "RelativeDocumentMoniker": "Gestion_documental\\Views\\ListaDocumentos\\Details.cshtml",
-              "ToolTip": "C:\\Users\\Revisor\u00EDa Fiscal\\source\\repos\\Gestion_documental\\Gestion_documental\\Views\\ListaDocumentos\\Details.cshtml",
-              "RelativeToolTip": "Gestion_documental\\Views\\ListaDocumentos\\Details.cshtml",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAADEAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-21T16:09:56.285Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Registro.cshtml",
-              "DocumentMoniker": "C:\\Users\\Revisor\u00EDa Fiscal\\source\\repos\\Gestion_documental\\Gestion_documental\\Views\\Autenticacion\\Registro.cshtml",
-              "RelativeDocumentMoniker": "Gestion_documental\\Views\\Autenticacion\\Registro.cshtml",
-              "ToolTip": "C:\\Users\\Revisor\u00EDa Fiscal\\source\\repos\\Gestion_documental\\Gestion_documental\\Views\\Autenticacion\\Registro.cshtml",
-              "RelativeToolTip": "Gestion_documental\\Views\\Autenticacion\\Registro.cshtml",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-27T19:52:25.594Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "RecuperarContrase\u00F1a.cshtml",
-              "DocumentMoniker": "C:\\Users\\Revisor\u00EDa Fiscal\\source\\repos\\Gestion_documental\\Gestion_documental\\Views\\Autenticacion\\RecuperarContrase\u00F1a.cshtml",
-              "RelativeDocumentMoniker": "Gestion_documental\\Views\\Autenticacion\\RecuperarContrase\u00F1a.cshtml",
-              "ToolTip": "C:\\Users\\Revisor\u00EDa Fiscal\\source\\repos\\Gestion_documental\\Gestion_documental\\Views\\Autenticacion\\RecuperarContrase\u00F1a.cshtml",
-              "RelativeToolTip": "Gestion_documental\\Views\\Autenticacion\\RecuperarContrase\u00F1a.cshtml",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAABgAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-27T19:53:31.621Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\Revisor\u00EDa Fiscal\\source\\repos\\Gestion_documental\\Gestion_documental\\Views\\Autenticacion\\Login.cshtml",
-              "RelativeDocumentMoniker": "Gestion_documental\\Views\\Autenticacion\\Login.cshtml",
-              "ToolTip": "C:\\Users\\Revisor\u00EDa Fiscal\\source\\repos\\Gestion_documental\\Gestion_documental\\Views\\Autenticacion\\Login.cshtml",
-              "RelativeToolTip": "Gestion_documental\\Views\\Autenticacion\\Login.cshtml",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAACAAAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-27T19:50:21.396Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "CambiarContrase\u00F1a.cshtml",
-              "DocumentMoniker": "C:\\Users\\Revisor\u00EDa Fiscal\\source\\repos\\Gestion_documental\\Gestion_documental\\Views\\Autenticacion\\CambiarContrase\u00F1a.cshtml",
-              "RelativeDocumentMoniker": "Gestion_documental\\Views\\Autenticacion\\CambiarContrase\u00F1a.cshtml",
-              "ToolTip": "C:\\Users\\Revisor\u00EDa Fiscal\\source\\repos\\Gestion_documental\\Gestion_documental\\Views\\Autenticacion\\CambiarContrase\u00F1a.cshtml",
-              "RelativeToolTip": "Gestion_documental\\Views\\Autenticacion\\CambiarContrase\u00F1a.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABLAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-27T19:54:27.155Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Revisor\u00EDa Fiscal\\source\\repos\\Gestion_documental\\Gestion_documental\\Program.cs",
-              "RelativeDocumentMoniker": "Gestion_documental\\Program.cs",
-              "ToolTip": "C:\\Users\\Revisor\u00EDa Fiscal\\source\\repos\\Gestion_documental\\Gestion_documental\\Program.cs",
-              "RelativeToolTip": "Gestion_documental\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAzAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "Documento.cs",
+              "DocumentMoniker": "C:\\Users\\Revisor\u00EDa Fiscal\\Desktop\\GDocumental\\GDocumental\\Gestion_documental\\Models\\Documento.cs",
+              "RelativeDocumentMoniker": "Gestion_documental\\Models\\Documento.cs",
+              "ToolTip": "C:\\Users\\Revisor\u00EDa Fiscal\\Desktop\\GDocumental\\GDocumental\\Gestion_documental\\Models\\Documento.cs",
+              "RelativeToolTip": "Gestion_documental\\Models\\Documento.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAcwCEAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T19:24:28.584Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-20T19:00:37.15Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 7,
+              "Title": "DocumentosController.cs",
+              "DocumentMoniker": "C:\\Users\\Revisor\u00EDa Fiscal\\Desktop\\GDocumental\\GDocumental\\Gestion_documental\\Controllers\\DocumentosController.cs",
+              "RelativeDocumentMoniker": "Gestion_documental\\Controllers\\DocumentosController.cs",
+              "ToolTip": "C:\\Users\\Revisor\u00EDa Fiscal\\Desktop\\GDocumental\\GDocumental\\Gestion_documental\\Controllers\\DocumentosController.cs",
+              "RelativeToolTip": "Gestion_documental\\Controllers\\DocumentosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T12:55:54.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ListaDocumentosController.cs",
-              "DocumentMoniker": "C:\\Users\\Revisor\u00EDa Fiscal\\source\\repos\\Gestion_documental\\Gestion_documental\\Controllers\\ListaDocumentosController.cs",
+              "DocumentMoniker": "C:\\Users\\Revisor\u00EDa Fiscal\\Desktop\\GDocumental\\GDocumental\\Gestion_documental\\Controllers\\ListaDocumentosController.cs",
               "RelativeDocumentMoniker": "Gestion_documental\\Controllers\\ListaDocumentosController.cs",
-              "ToolTip": "C:\\Users\\Revisor\u00EDa Fiscal\\source\\repos\\Gestion_documental\\Gestion_documental\\Controllers\\ListaDocumentosController.cs",
+              "ToolTip": "C:\\Users\\Revisor\u00EDa Fiscal\\Desktop\\GDocumental\\GDocumental\\Gestion_documental\\Controllers\\ListaDocumentosController.cs",
               "RelativeToolTip": "Gestion_documental\\Controllers\\ListaDocumentosController.cs",
-              "ViewState": "AgIAAMgAAAAAAAAAAAAYwNEAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAA4BAAAAAAAAAAAiwF0BAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-21T15:51:36.385Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "AutenticacionController.cs",
-              "DocumentMoniker": "C:\\Users\\Revisor\u00EDa Fiscal\\source\\repos\\Gestion_documental\\Gestion_documental\\Controllers\\AutenticacionController.cs",
-              "RelativeDocumentMoniker": "Gestion_documental\\Controllers\\AutenticacionController.cs",
-              "ToolTip": "C:\\Users\\Revisor\u00EDa Fiscal\\source\\repos\\Gestion_documental\\Gestion_documental\\Controllers\\AutenticacionController.cs",
-              "RelativeToolTip": "Gestion_documental\\Controllers\\AutenticacionController.cs",
-              "ViewState": "AgIAAJQAAAAAAAAAAAAYwFAAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T19:47:03.187Z",
+              "DocumentIndex": 5,
+              "Title": "Buscar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Revisor\u00EDa Fiscal\\Desktop\\GDocumental\\GDocumental\\Gestion_documental\\Views\\Documentos\\Buscar.cshtml",
+              "RelativeDocumentMoniker": "Gestion_documental\\Views\\Documentos\\Buscar.cshtml",
+              "ToolTip": "C:\\Users\\Revisor\u00EDa Fiscal\\Desktop\\GDocumental\\GDocumental\\Gestion_documental\\Views\\Documentos\\Buscar.cshtml",
+              "RelativeToolTip": "Gestion_documental\\Views\\Documentos\\Buscar.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-21T13:18:03.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Preview.cshtml",
+              "DocumentMoniker": "C:\\Users\\Revisor\u00EDa Fiscal\\Desktop\\GDocumental\\GDocumental\\Gestion_documental\\Views\\ListaDocumentos\\Preview.cshtml",
+              "RelativeDocumentMoniker": "Gestion_documental\\Views\\ListaDocumentos\\Preview.cshtml",
+              "ToolTip": "C:\\Users\\Revisor\u00EDa Fiscal\\Desktop\\GDocumental\\GDocumental\\Gestion_documental\\Views\\ListaDocumentos\\Preview.cshtml",
+              "RelativeToolTip": "Gestion_documental\\Views\\ListaDocumentos\\Preview.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-04T15:59:03.161Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Gestion_documentalContext.cs",
-              "DocumentMoniker": "C:\\Users\\Revisor\u00EDa Fiscal\\source\\repos\\Gestion_documental\\Gestion_documental\\Data\\Gestion_documentalContext.cs",
-              "RelativeDocumentMoniker": "Gestion_documental\\Data\\Gestion_documentalContext.cs",
-              "ToolTip": "C:\\Users\\Revisor\u00EDa Fiscal\\source\\repos\\Gestion_documental\\Gestion_documental\\Data\\Gestion_documentalContext.cs",
-              "RelativeToolTip": "Gestion_documental\\Data\\Gestion_documentalContext.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T19:54:10.958Z",
-              "EditorCaption": ""
+              "DocumentIndex": 3,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Revisor\u00EDa Fiscal\\Desktop\\GDocumental\\GDocumental\\Gestion_documental\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Gestion_documental\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Revisor\u00EDa Fiscal\\Desktop\\GDocumental\\GDocumental\\Gestion_documental\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Gestion_documental\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAADAAAAAAAAAAAAAqwD4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-29T14:22:38.652Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "DocumentoSearchViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Revisor\u00EDa Fiscal\\source\\repos\\Gestion_documental\\Gestion_documental\\Models\\DocumentoSearchViewModel.cs",
-              "RelativeDocumentMoniker": "Gestion_documental\\Models\\DocumentoSearchViewModel.cs",
-              "ToolTip": "C:\\Users\\Revisor\u00EDa Fiscal\\source\\repos\\Gestion_documental\\Gestion_documental\\Models\\DocumentoSearchViewModel.cs",
-              "RelativeToolTip": "Gestion_documental\\Models\\DocumentoSearchViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T13:07:33.919Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 4,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Revisor\u00EDa Fiscal\\source\\repos\\Gestion_documental\\Gestion_documental\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Revisor\u00EDa Fiscal\\Desktop\\GDocumental\\GDocumental\\Gestion_documental\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Gestion_documental\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Revisor\u00EDa Fiscal\\source\\repos\\Gestion_documental\\Gestion_documental\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Revisor\u00EDa Fiscal\\Desktop\\GDocumental\\GDocumental\\Gestion_documental\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Gestion_documental\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAB0AAABJAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAC4AAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-16T19:38:04.119Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T19:38:04.119Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\Revisor\u00EDa Fiscal\\source\\repos\\Gestion_documental\\Gestion_documental\\Views\\Usuarios\\Delete.cshtml",
-              "RelativeDocumentMoniker": "Gestion_documental\\Views\\Usuarios\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\Revisor\u00EDa Fiscal\\source\\repos\\Gestion_documental\\Gestion_documental\\Views\\Usuarios\\Delete.cshtml",
-              "RelativeToolTip": "Gestion_documental\\Views\\Usuarios\\Delete.cshtml",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAABcAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-21T16:00:15.126Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\Revisor\u00EDa Fiscal\\source\\repos\\Gestion_documental\\Gestion_documental\\Models\\Usuario.cs",
-              "RelativeDocumentMoniker": "Gestion_documental\\Models\\Usuario.cs",
-              "ToolTip": "C:\\Users\\Revisor\u00EDa Fiscal\\source\\repos\\Gestion_documental\\Gestion_documental\\Models\\Usuario.cs",
-              "RelativeToolTip": "Gestion_documental\\Models\\Usuario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T13:08:48.536Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Revisor\u00EDa Fiscal\\source\\repos\\Gestion_documental\\Gestion_documental\\Views\\Usuarios\\Create.cshtml",
-              "RelativeDocumentMoniker": "Gestion_documental\\Views\\Usuarios\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Revisor\u00EDa Fiscal\\source\\repos\\Gestion_documental\\Gestion_documental\\Views\\Usuarios\\Create.cshtml",
-              "RelativeToolTip": "Gestion_documental\\Views\\Usuarios\\Create.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAkwBQAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-21T16:02:39.686Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Gestion_documental.csproj",
-              "DocumentMoniker": "C:\\Users\\Revisor\u00EDa Fiscal\\source\\repos\\Gestion_documental\\Gestion_documental\\Gestion_documental.csproj",
-              "RelativeDocumentMoniker": "Gestion_documental\\Gestion_documental.csproj",
-              "ToolTip": "C:\\Users\\Revisor\u00EDa Fiscal\\source\\repos\\Gestion_documental\\Gestion_documental\\Gestion_documental.csproj",
-              "RelativeToolTip": "Gestion_documental\\Gestion_documental.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-23T14:35:06.257Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Revisor\u00EDa Fiscal\\source\\repos\\Gestion_documental\\Gestion_documental\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Gestion_documental\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Revisor\u00EDa Fiscal\\source\\repos\\Gestion_documental\\Gestion_documental\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Gestion_documental\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-22T22:14:01.008Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "UsuariosController.cs",
-              "DocumentMoniker": "C:\\Users\\Revisor\u00EDa Fiscal\\source\\repos\\Gestion_documental\\Gestion_documental\\Controllers\\UsuariosController.cs",
-              "RelativeDocumentMoniker": "Gestion_documental\\Controllers\\UsuariosController.cs",
-              "ToolTip": "C:\\Users\\Revisor\u00EDa Fiscal\\source\\repos\\Gestion_documental\\Gestion_documental\\Controllers\\UsuariosController.cs",
-              "RelativeToolTip": "Gestion_documental\\Controllers\\UsuariosController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T15:17:09.223Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "Categoria.cs",
-              "DocumentMoniker": "C:\\Users\\Revisor\u00EDa Fiscal\\source\\repos\\Gestion_documental\\Gestion_documental\\Models\\Categoria.cs",
-              "RelativeDocumentMoniker": "Gestion_documental\\Models\\Categoria.cs",
-              "ToolTip": "C:\\Users\\Revisor\u00EDa Fiscal\\source\\repos\\Gestion_documental\\Gestion_documental\\Models\\Categoria.cs",
-              "RelativeToolTip": "Gestion_documental\\Models\\Categoria.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T13:32:54.56Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "_SearchForm.cshtml",
-              "DocumentMoniker": "C:\\Users\\Revisor\u00EDa Fiscal\\source\\repos\\Gestion_documental\\Gestion_documental\\Views\\Shared\\_SearchForm.cshtml",
-              "RelativeDocumentMoniker": "Gestion_documental\\Views\\Shared\\_SearchForm.cshtml",
-              "ToolTip": "C:\\Users\\Revisor\u00EDa Fiscal\\source\\repos\\Gestion_documental\\Gestion_documental\\Views\\Shared\\_SearchForm.cshtml",
-              "RelativeToolTip": "Gestion_documental\\Views\\Shared\\_SearchForm.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-21T13:20:01.63Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Revisor\u00EDa Fiscal\\source\\repos\\Gestion_documental\\Gestion_documental\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Gestion_documental\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Revisor\u00EDa Fiscal\\source\\repos\\Gestion_documental\\Gestion_documental\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Gestion_documental\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T13:02:55.782Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 9,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Revisor\u00EDa Fiscal\\source\\repos\\Gestion_documental\\Gestion_documental\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Revisor\u00EDa Fiscal\\Desktop\\GDocumental\\GDocumental\\Gestion_documental\\appsettings.json",
               "RelativeDocumentMoniker": "Gestion_documental\\appsettings.json",
-              "ToolTip": "C:\\Users\\Revisor\u00EDa Fiscal\\source\\repos\\Gestion_documental\\Gestion_documental\\appsettings.json",
+              "ToolTip": "C:\\Users\\Revisor\u00EDa Fiscal\\Desktop\\GDocumental\\GDocumental\\Gestion_documental\\appsettings.json",
               "RelativeToolTip": "Gestion_documental\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -539,27 +261,303 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "site.js",
-              "DocumentMoniker": "C:\\Users\\Revisor\u00EDa Fiscal\\source\\repos\\Gestion_documental\\Gestion_documental\\wwwroot\\js\\site.js",
-              "RelativeDocumentMoniker": "Gestion_documental\\wwwroot\\js\\site.js",
-              "ToolTip": "C:\\Users\\Revisor\u00EDa Fiscal\\source\\repos\\Gestion_documental\\Gestion_documental\\wwwroot\\js\\site.js",
-              "RelativeToolTip": "Gestion_documental\\wwwroot\\js\\site.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-01-20T19:30:50.463Z"
+              "DocumentIndex": 10,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Revisor\u00EDa Fiscal\\Desktop\\GDocumental\\GDocumental\\Gestion_documental\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "Gestion_documental\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Revisor\u00EDa Fiscal\\Desktop\\GDocumental\\GDocumental\\Gestion_documental\\Models\\Usuario.cs",
+              "RelativeToolTip": "Gestion_documental\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwAYAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T13:08:48.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Revisor\u00EDa Fiscal\\Desktop\\GDocumental\\GDocumental\\Gestion_documental\\Views\\Usuarios\\Details.cshtml",
+              "RelativeDocumentMoniker": "Gestion_documental\\Views\\Usuarios\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Revisor\u00EDa Fiscal\\Desktop\\GDocumental\\GDocumental\\Gestion_documental\\Views\\Usuarios\\Details.cshtml",
+              "RelativeToolTip": "Gestion_documental\\Views\\Usuarios\\Details.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwB8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-21T15:59:41.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Revisor\u00EDa Fiscal\\Desktop\\GDocumental\\GDocumental\\Gestion_documental\\Views\\ListaDocumentos\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Gestion_documental\\Views\\ListaDocumentos\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Revisor\u00EDa Fiscal\\Desktop\\GDocumental\\GDocumental\\Gestion_documental\\Views\\ListaDocumentos\\Edit.cshtml",
+              "RelativeToolTip": "Gestion_documental\\Views\\ListaDocumentos\\Edit.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABoAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-21T16:10:22.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Revisor\u00EDa Fiscal\\Desktop\\GDocumental\\GDocumental\\Gestion_documental\\Views\\Usuarios\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Gestion_documental\\Views\\Usuarios\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Revisor\u00EDa Fiscal\\Desktop\\GDocumental\\GDocumental\\Gestion_documental\\Views\\Usuarios\\Edit.cshtml",
+              "RelativeToolTip": "Gestion_documental\\Views\\Usuarios\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-21T15:58:40.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Revisor\u00EDa Fiscal\\Desktop\\GDocumental\\GDocumental\\Gestion_documental\\Views\\ListaDocumentos\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Gestion_documental\\Views\\ListaDocumentos\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Revisor\u00EDa Fiscal\\Desktop\\GDocumental\\GDocumental\\Gestion_documental\\Views\\ListaDocumentos\\Delete.cshtml",
+              "RelativeToolTip": "Gestion_documental\\Views\\ListaDocumentos\\Delete.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAIBJwDMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-21T16:07:11.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Revisor\u00EDa Fiscal\\Desktop\\GDocumental\\GDocumental\\Gestion_documental\\Views\\ListaDocumentos\\Create.cshtml",
+              "RelativeDocumentMoniker": "Gestion_documental\\Views\\ListaDocumentos\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Revisor\u00EDa Fiscal\\Desktop\\GDocumental\\GDocumental\\Gestion_documental\\Views\\ListaDocumentos\\Create.cshtml",
+              "RelativeToolTip": "Gestion_documental\\Views\\ListaDocumentos\\Create.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAIBJwAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-21T16:05:18.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Revisor\u00EDa Fiscal\\Desktop\\GDocumental\\GDocumental\\Gestion_documental\\Views\\Usuarios\\Index.cshtml",
+              "RelativeDocumentMoniker": "Gestion_documental\\Views\\Usuarios\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Revisor\u00EDa Fiscal\\Desktop\\GDocumental\\GDocumental\\Gestion_documental\\Views\\Usuarios\\Index.cshtml",
+              "RelativeToolTip": "Gestion_documental\\Views\\Usuarios\\Index.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAIBJwAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-21T15:57:41.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Revisor\u00EDa Fiscal\\Desktop\\GDocumental\\GDocumental\\Gestion_documental\\Views\\ListaDocumentos\\Details.cshtml",
+              "RelativeDocumentMoniker": "Gestion_documental\\Views\\ListaDocumentos\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Revisor\u00EDa Fiscal\\Desktop\\GDocumental\\GDocumental\\Gestion_documental\\Views\\ListaDocumentos\\Details.cshtml",
+              "RelativeToolTip": "Gestion_documental\\Views\\ListaDocumentos\\Details.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAIBJwDEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-21T16:09:56.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Registro.cshtml",
+              "DocumentMoniker": "C:\\Users\\Revisor\u00EDa Fiscal\\Desktop\\GDocumental\\GDocumental\\Gestion_documental\\Views\\Autenticacion\\Registro.cshtml",
+              "RelativeDocumentMoniker": "Gestion_documental\\Views\\Autenticacion\\Registro.cshtml",
+              "ToolTip": "C:\\Users\\Revisor\u00EDa Fiscal\\Desktop\\GDocumental\\GDocumental\\Gestion_documental\\Views\\Autenticacion\\Registro.cshtml",
+              "RelativeToolTip": "Gestion_documental\\Views\\Autenticacion\\Registro.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAIBJwEEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-27T19:52:25.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RecuperarContrase\u00F1a.cshtml",
+              "DocumentMoniker": "C:\\Users\\Revisor\u00EDa Fiscal\\Desktop\\GDocumental\\GDocumental\\Gestion_documental\\Views\\Autenticacion\\RecuperarContrase\u00F1a.cshtml",
+              "RelativeDocumentMoniker": "Gestion_documental\\Views\\Autenticacion\\RecuperarContrase\u00F1a.cshtml",
+              "ToolTip": "C:\\Users\\Revisor\u00EDa Fiscal\\Desktop\\GDocumental\\GDocumental\\Gestion_documental\\Views\\Autenticacion\\RecuperarContrase\u00F1a.cshtml",
+              "RelativeToolTip": "Gestion_documental\\Views\\Autenticacion\\RecuperarContrase\u00F1a.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAIBJwBgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-27T19:53:31.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Revisor\u00EDa Fiscal\\Desktop\\GDocumental\\GDocumental\\Gestion_documental\\Views\\Autenticacion\\Login.cshtml",
+              "RelativeDocumentMoniker": "Gestion_documental\\Views\\Autenticacion\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Revisor\u00EDa Fiscal\\Desktop\\GDocumental\\GDocumental\\Gestion_documental\\Views\\Autenticacion\\Login.cshtml",
+              "RelativeToolTip": "Gestion_documental\\Views\\Autenticacion\\Login.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAIBJwCAAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-27T19:50:21.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CambiarContrase\u00F1a.cshtml",
+              "DocumentMoniker": "C:\\Users\\Revisor\u00EDa Fiscal\\Desktop\\GDocumental\\GDocumental\\Gestion_documental\\Views\\Autenticacion\\CambiarContrase\u00F1a.cshtml",
+              "RelativeDocumentMoniker": "Gestion_documental\\Views\\Autenticacion\\CambiarContrase\u00F1a.cshtml",
+              "ToolTip": "C:\\Users\\Revisor\u00EDa Fiscal\\Desktop\\GDocumental\\GDocumental\\Gestion_documental\\Views\\Autenticacion\\CambiarContrase\u00F1a.cshtml",
+              "RelativeToolTip": "Gestion_documental\\Views\\Autenticacion\\CambiarContrase\u00F1a.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-27T19:54:27.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Revisor\u00EDa Fiscal\\Desktop\\GDocumental\\GDocumental\\Gestion_documental\\Program.cs",
+              "RelativeDocumentMoniker": "Gestion_documental\\Program.cs",
+              "ToolTip": "C:\\Users\\Revisor\u00EDa Fiscal\\Desktop\\GDocumental\\GDocumental\\Gestion_documental\\Program.cs",
+              "RelativeToolTip": "Gestion_documental\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T19:24:28.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AutenticacionController.cs",
+              "DocumentMoniker": "C:\\Users\\Revisor\u00EDa Fiscal\\Desktop\\GDocumental\\GDocumental\\Gestion_documental\\Controllers\\AutenticacionController.cs",
+              "RelativeDocumentMoniker": "Gestion_documental\\Controllers\\AutenticacionController.cs",
+              "ToolTip": "C:\\Users\\Revisor\u00EDa Fiscal\\Desktop\\GDocumental\\GDocumental\\Gestion_documental\\Controllers\\AutenticacionController.cs",
+              "RelativeToolTip": "Gestion_documental\\Controllers\\AutenticacionController.cs",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAzwFAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T19:47:03.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Gestion_documentalContext.cs",
+              "DocumentMoniker": "C:\\Users\\Revisor\u00EDa Fiscal\\Desktop\\GDocumental\\GDocumental\\Gestion_documental\\Data\\Gestion_documentalContext.cs",
+              "RelativeDocumentMoniker": "Gestion_documental\\Data\\Gestion_documentalContext.cs",
+              "ToolTip": "C:\\Users\\Revisor\u00EDa Fiscal\\Desktop\\GDocumental\\GDocumental\\Gestion_documental\\Data\\Gestion_documentalContext.cs",
+              "RelativeToolTip": "Gestion_documental\\Data\\Gestion_documentalContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAABRwBcAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T19:54:10.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DocumentoSearchViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Revisor\u00EDa Fiscal\\Desktop\\GDocumental\\GDocumental\\Gestion_documental\\Models\\DocumentoSearchViewModel.cs",
+              "RelativeDocumentMoniker": "Gestion_documental\\Models\\DocumentoSearchViewModel.cs",
+              "ToolTip": "C:\\Users\\Revisor\u00EDa Fiscal\\Desktop\\GDocumental\\GDocumental\\Gestion_documental\\Models\\DocumentoSearchViewModel.cs",
+              "RelativeToolTip": "Gestion_documental\\Models\\DocumentoSearchViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T13:07:33.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Revisor\u00EDa Fiscal\\Desktop\\GDocumental\\GDocumental\\Gestion_documental\\Views\\Usuarios\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Gestion_documental\\Views\\Usuarios\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Revisor\u00EDa Fiscal\\Desktop\\GDocumental\\GDocumental\\Gestion_documental\\Views\\Usuarios\\Delete.cshtml",
+              "RelativeToolTip": "Gestion_documental\\Views\\Usuarios\\Delete.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAIBJwBcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-21T16:00:15.126Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 26,
-              "Title": "Documento.cs",
-              "DocumentMoniker": "C:\\Users\\Revisor\u00EDa Fiscal\\source\\repos\\Gestion_documental\\Gestion_documental\\Models\\Documento.cs",
-              "RelativeDocumentMoniker": "Gestion_documental\\Models\\Documento.cs",
-              "ToolTip": "C:\\Users\\Revisor\u00EDa Fiscal\\source\\repos\\Gestion_documental\\Gestion_documental\\Models\\Documento.cs",
-              "RelativeToolTip": "Gestion_documental\\Models\\Documento.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAA4wCEAAAAmAAAAAAAAAA==",
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Revisor\u00EDa Fiscal\\Desktop\\GDocumental\\GDocumental\\Gestion_documental\\Views\\Usuarios\\Create.cshtml",
+              "RelativeDocumentMoniker": "Gestion_documental\\Views\\Usuarios\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Revisor\u00EDa Fiscal\\Desktop\\GDocumental\\GDocumental\\Gestion_documental\\Views\\Usuarios\\Create.cshtml",
+              "RelativeToolTip": "Gestion_documental\\Views\\Usuarios\\Create.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAkwBQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-21T16:02:39.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Gestion_documental.csproj",
+              "DocumentMoniker": "C:\\Users\\Revisor\u00EDa Fiscal\\Desktop\\GDocumental\\GDocumental\\Gestion_documental\\Gestion_documental.csproj",
+              "RelativeDocumentMoniker": "Gestion_documental\\Gestion_documental.csproj",
+              "ToolTip": "C:\\Users\\Revisor\u00EDa Fiscal\\Desktop\\GDocumental\\GDocumental\\Gestion_documental\\Gestion_documental.csproj",
+              "RelativeToolTip": "Gestion_documental\\Gestion_documental.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-23T14:35:06.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Revisor\u00EDa Fiscal\\Desktop\\GDocumental\\GDocumental\\Gestion_documental\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Gestion_documental\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Revisor\u00EDa Fiscal\\Desktop\\GDocumental\\GDocumental\\Gestion_documental\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Gestion_documental\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-22T22:14:01.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\Revisor\u00EDa Fiscal\\Desktop\\GDocumental\\GDocumental\\Gestion_documental\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "Gestion_documental\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\Revisor\u00EDa Fiscal\\Desktop\\GDocumental\\GDocumental\\Gestion_documental\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "Gestion_documental\\Controllers\\UsuariosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T19:00:37.15Z"
+              "WhenOpened": "2025-01-21T15:17:09.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\Revisor\u00EDa Fiscal\\Desktop\\GDocumental\\GDocumental\\Gestion_documental\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "Gestion_documental\\Models\\Categoria.cs",
+              "ToolTip": "C:\\Users\\Revisor\u00EDa Fiscal\\Desktop\\GDocumental\\GDocumental\\Gestion_documental\\Models\\Categoria.cs",
+              "RelativeToolTip": "Gestion_documental\\Models\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T13:32:54.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "_SearchForm.cshtml",
+              "DocumentMoniker": "C:\\Users\\Revisor\u00EDa Fiscal\\Desktop\\GDocumental\\GDocumental\\Gestion_documental\\Views\\Shared\\_SearchForm.cshtml",
+              "RelativeDocumentMoniker": "Gestion_documental\\Views\\Shared\\_SearchForm.cshtml",
+              "ToolTip": "C:\\Users\\Revisor\u00EDa Fiscal\\Desktop\\GDocumental\\GDocumental\\Gestion_documental\\Views\\Shared\\_SearchForm.cshtml",
+              "RelativeToolTip": "Gestion_documental\\Views\\Shared\\_SearchForm.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-21T13:20:01.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Revisor\u00EDa Fiscal\\Desktop\\GDocumental\\GDocumental\\Gestion_documental\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Gestion_documental\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Revisor\u00EDa Fiscal\\Desktop\\GDocumental\\GDocumental\\Gestion_documental\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Gestion_documental\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T13:02:55.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\Revisor\u00EDa Fiscal\\Desktop\\GDocumental\\GDocumental\\Gestion_documental\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "Gestion_documental\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\Revisor\u00EDa Fiscal\\Desktop\\GDocumental\\GDocumental\\Gestion_documental\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "Gestion_documental\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-20T19:30:50.463Z"
             }
           ]
         }

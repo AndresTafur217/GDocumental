@@ -1,49 +1,66 @@
-﻿@model IEnumerable<Gestion_documental.Models.Documento>
+﻿@model IPagedList<Gestion_documental.Models.Documento>
+@using X.PagedList.Mvc.Core; <!-- Asegúrate de agregar este using -->
+@using X.PagedList;
 @{
-    ViewData["Title"] = "Index";
+    ViewData["Title"] = "Lista de Documentos";
 }
+<div class="h-100 m-0 p-0">
+    <h2>Lista de Documentos</h2>
+    <p><a asp-action="Create" class="btn btn-primary">Subir documento</a></p>
+    <!-- Formulario de búsqueda -->
+    <form asp-action="Index" method="get">
+        <div class="row">
+            <div class="form-group col-md-3">
+                <label for="nombre">Nombre</label>
+                <input type="text" name="nombre" class="form-control" value="@ViewBag.Nombre" placeholder="Buscar por nombre" />
+            </div>
+            <div class="form-group col-md-2">
+                <label for="categoriaId">Categoría</label>
+                <select name="categoriaId" class="form-control" asp-items="ViewBag.Categorias">
+                    <option value="">Todas las categorías</option>
+                </select>
+            </div>
+            <div class="form-group col-md-2">
+                <label for="fecha">Fecha</label>
+                <input type="date" name="fecha" class="form-control" value="@ViewBag.Fecha" />
+            </div>
+            <div class="form-group col-md-2 d-flex align-items-end">
+                <button type="submit" class="btn btn-primary mr-2">Buscar</button>
+                <a asp-action="Index" class="btn btn-secondary">Limpiar</a>
+            </div>
+        </div>
+    </form>
+    <div class="h-75">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Nombre</th>
+                    <th>Categoría</th>
+                    <th>Fecha Creación</th>
+                    <th>Acciones</th>
+                </tr>
+            </thead>
+            <tbody class="">
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.Nombre</td>
+                        <td>@item.Categoria.Nombre</td>
+                        <td>@item.FechaCreacion.ToString("dd/MM/yyyy")</td>
+                        <td>
+                            <a asp-action="Preview" asp-route-id="@item.Id" class="btn btn-info btn-sm"><i class="fa-solid fa-eye"></i></a>
+                            <a asp-action="Download" asp-route-id="@item.Id" class="btn btn-success btn-sm"><i class="fa-solid fa-pen-to-square text-light"></i></a>
+                            <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-warning btn-sm"><i class="fa-solid fa-circle-info text-light"></i></a>
+                            <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger btn-sm"><i class="fa-solid fa-trash-can text-light"></i></a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
 
-<h1>Documentos</h1>
-
-<p>
-    <a asp-action="Create" class="btn btn-primary">Subir documento</a>
-</p>
-
-<table class="table">
-    <thead>
-        <tr>
-            <th>Nombre</th>
-            <th>Ubicación del archivo</th>
-            <th>Archivo</th>
-            <th>Categorias</th>
-            <th>Acciones</th>
-        </tr>
-    </thead>
-    <tbody>
-        @foreach (var item in Model)
-        {
-            <tr>
-                <td>@Html.DisplayFor(modelItem => item.Nombre)</td>
-                <td>@Html.DisplayFor(modelItem => item.Ruta)</td>
-                <td>
-                    @if (!string.IsNullOrEmpty(item.Copia))
-                    {
-                        <a asp-action="DownloadFile" asp-route-id="@item.Id" class="btn btn-sm btn-success">
-                            <i class="bi bi-download"></i> Descargar <i class="fa-solid fa-download text-light"></i>
-                        </a>
-                    }
-                    else
-                    {
-                        <span>No hay archivo</span>
-                    }
-                </td>
-                <td>@Html.DisplayFor(modelItem => item.Categoria.Nombre)</td>
-                <td>
-                    <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-sm bg-editar"><i class="fa-solid fa-pen-to-square text-light"></i></a> |
-                    <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-sm bg-detalles"><i class="fa-solid fa-circle-info text-light"></i></a> |
-                    <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-sm bg-danger"><i class="fa-solid fa-trash-can text-light"></i></a>
-                </td>
-            </tr>
-        }
-    </tbody>
-</table>
+    <div class="d-flex justify-content-center pagination mb-0 pb-0">
+        @Html.PagedListPager(Model, page => 
+            Url.Action("Index", new { page, nombre = ViewBag.Nombre, categoriaId = ViewBag.CategoriaId, fecha = ViewBag.Fecha }))
+    </div>
+</div>
